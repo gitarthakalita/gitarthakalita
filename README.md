@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://gitarthakalita.com/projects](https://gitarthakalita.com/projects)
 
-- 📝 I regularly write articles on [https://gitarthakalita.com/blog](https://gitarthakalita.com/blog)
+<!-- - 📝 I regularly write articles on [https://gitarthakalita.com/blog](https://gitarthakalita.com/blog) -->
 
 - 💬 Ask me about **Product Design**
 
