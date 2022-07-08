@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Assam Entrepreneurs Network**
 
-- 🌱 I’m currently learning **Reactjs, Nextjs, Nodejs, MongoDB, C++, Java**
+- 🌱 I’m currently learning **Reactjs, Nextjs, Nodejs, MongoDB, Rust, Golang**
 
 - 👨‍💻 All of my projects are available at [https://gitarthakalita.com/projects](https://gitarthakalita.com/projects)
 
